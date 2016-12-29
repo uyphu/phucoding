@@ -96,12 +96,12 @@
 	///////////////////////////////
 	// Initialize
 	///////////////////////////////
-
+	
 	/*jQuery.noConflict();
 	setHomeBannerHeight();
-	centerHomeBannerText();
+	centerHomeBannerText();*/
 	setSlideNav();
-	setHeaderBackground();*/
+	setHeaderBackground();
 
 	//Resize events
 	/*jQuery(window).smartresize(function(){
